@@ -57,6 +57,8 @@ a {
 #contact {
 	display: block;
 	background: rgba(187,180,180,0.5);
+	margin: 0px 50px 0px 50px;
+	text-align: center;
 }
 
 article img {
@@ -81,7 +83,7 @@ p, h2, h3  {
 
 footer {
 	margin-top:10px;
-	background: #000;
+	background: rgba(0,0,0,0.9);
 	color: #fff;
     width: 100%;
     }

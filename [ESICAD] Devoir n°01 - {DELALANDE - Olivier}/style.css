@@ -2,12 +2,18 @@
 	font-family: Helvetica, Arial, sans, _sans;
 	font-size: 0.8;
 }
+
+body {
+	background-image: url("images/background.jpg");
+	background-size: cover;
+}
+
 a {
 	color: black;
 }
 
 #top {
-	background: grey;
+	background: rgba(187,180,180,0.5);
 	display: inline-block;
 	width: 100%;
 }
@@ -30,21 +36,21 @@ a {
 }
 
 #top_bar{
-	background: dimgrey;
+	background: rgba(187,180,180,0.2);
 }
 
 #right-side {
 	float: right;
 	width: 30%;
 	height: 100%;
-	background: grey;
+	background: rgba(107,71,71,0.3);
 }
 
 #left-side {
 	float: left;
 	width: 70%;
 	height: 100%;
-	background: dimgrey;
+	background: rgba(187,180,180,0.5);
 }
 
 #contact {

@@ -1,13 +1,20 @@
+*, body {
+	font-family: Helvetica, Arial, sans, _sans;
+}
 a {
 	color: black;
 }
 
 #top {
 	background: grey;
+	display: inline-flex;
 }
 
 #logo_top {
 	width: 10%;
+	height: 10%;
+	margin: 10px 0px 10px 0px;
+	float: right;
 }
 
 .topbar {
@@ -16,5 +23,33 @@ a {
 }
 
 #top_bar{
-	background: DimGray;
+	background: dimgrey;
+}
+
+#right-side {
+	float: right;
+	width: 30%;
+	height: 100%;
+	background: grey;
+}
+
+#left-side {
+	float: left;
+	width: 70%;
+	height: 100%;
+	background: dimgrey;
+}
+
+#contact {
+	display: block;
+	background: grey;
+}
+
+article img {
+	width: 100%;
+}
+
+#footer {
+	background: #000;
+	color: #fff;
 }

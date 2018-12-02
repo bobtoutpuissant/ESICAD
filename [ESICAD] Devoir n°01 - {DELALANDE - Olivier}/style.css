@@ -67,15 +67,25 @@ p, h2, h3  {
 	margin: 10px; 
 }
 
-#footer {
-	background: #000;
-	color: #fff;
-}
-
 #sport_article, #high_tech_article {
 	display: flex;
 }
 
 .common_article {
 	width: 33%;
+}
+
+.clear {
+	clear: both;
+}
+
+footer {
+	margin-top:10px;
+	background: #000;
+	color: #fff;
+    width: 100%;
+    }
+
+footer a {
+	color: #fff;
 }

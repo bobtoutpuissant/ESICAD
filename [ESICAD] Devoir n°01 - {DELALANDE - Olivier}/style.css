@@ -7,13 +7,19 @@ a {
 
 #top {
 	background: grey;
-	display: inline-flex;
+	display: inline-block;
+	width: 100%;
+}
+
+#title_top {
+	float: left;
+	margin: 10px;
 }
 
 #logo_top {
 	width: 10%;
 	height: 10%;
-	margin: 10px 0px 10px 0px;
+	margin: 10px;
 	float: right;
 }
 

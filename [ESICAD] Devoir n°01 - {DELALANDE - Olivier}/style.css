@@ -1,0 +1,20 @@
+a {
+	color: black;
+}
+
+#top {
+	background: grey;
+}
+
+#logo_top {
+	width: 10%;
+}
+
+.topbar {
+	display: inline;
+	margin: 15px;
+}
+
+#top_bar{
+	background: DimGray;
+}

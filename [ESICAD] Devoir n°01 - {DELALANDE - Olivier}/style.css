@@ -56,7 +56,7 @@ a {
 
 #contact {
 	display: block;
-	background: grey;
+	background: rgba(187,180,180,0.5);
 }
 
 article img {

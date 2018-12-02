@@ -1,5 +1,6 @@
 *, body {
 	font-family: Helvetica, Arial, sans, _sans;
+	font-size: 0.8;
 }
 a {
 	color: black;
@@ -53,6 +54,10 @@ a {
 
 article img {
 	width: 100%;
+}
+
+p, h2, h3  {
+	margin: 10px; 
 }
 
 #footer {

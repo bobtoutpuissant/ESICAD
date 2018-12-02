@@ -64,3 +64,11 @@ p, h2, h3  {
 	background: #000;
 	color: #fff;
 }
+
+#sport_article, #high_tech_article {
+	display: flex;
+}
+
+.common_article {
+	width: 33%;
+}

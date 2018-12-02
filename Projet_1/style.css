@@ -1,0 +1,61 @@
+body{
+    font-family: arial; 
+    font-size: 100%; 
+    line-height: 1.2em; 
+    font-weight: bold;
+    text-shadow: 1px 1px 2px white;
+    background-image: url("images/YTFF.png");
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+a {
+	color: red;
+}
+
+h3 {
+	text-align: initial !important;
+}
+
+li {
+	width: 80%;
+	margin-bottom: 60px;
+	list-style: none;
+	display: flex;
+}
+
+#articleall {
+	padding: 5px;
+}
+
+.box3 {
+	font-weight: normal;
+	text-align: left;
+}
+
+.box1 {
+	width: 200px;
+	float: left;
+}
+
+.article {
+	height: 20%;
+}
+
+#logo_up {
+	width: 100%;
+	position: 0px fixed;
+	margin-top: 0% !important;
+}
+
+
+#fulltop {
+	text-align: center;
+	border: 0px solid black;
+	margin-bottom: 30px;
+}
+
+footer {
+	float: right;
+	margin: 10px;
+}
